@@ -1,6 +1,4 @@
 # panda-web-scrcpy
-![Project Logo](desc/logo.png)
-
 ## 项目背景
 这个项目最初是拿来做实验,后面会进行优化scrcpy的传输协议，录制等功能。
 
