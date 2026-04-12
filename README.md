@@ -8,7 +8,7 @@
 
 1. 手机开启 **USB 调试**，用数据线连上电脑。  
 2. 使用 **Chrome 或 Edge** 打开：  
-   **[https://pandatestgrid.github.io/panda-web-scrcpy/](https://pandatestgrid.github.io/panda-web-scrcpy/)**  
+   **[https://pandatestgrid.github.io/PandaScrcpy/](https://pandatestgrid.github.io/PandaScrcpy/)**  
 3. 按页面提示授权 WebUSB，连接后即可投屏与操作。
 
 ### 开源版能力一览
