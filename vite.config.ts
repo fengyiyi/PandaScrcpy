@@ -13,7 +13,7 @@ export default defineConfig({
     Markdown() as Plugin,
     Binary() as Plugin,
   ],
-  base: '/PandaScrcpy/', // 须与 GitHub 仓库名一致（GitHub Pages 项目站点路径）
+  base: '/', // 原来是 "/PandaScrcpy"
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
